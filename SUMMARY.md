@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页](README.md)
+* [Index](README.md)
 
 ## Programming
 
