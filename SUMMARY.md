@@ -11,3 +11,8 @@
 
 * [Software](the-setup/software.md)
 
+## Books
+
+* [Non-Fiction](books/non-fiction.md)
+* [Fiction](books/fiction.md)
+
