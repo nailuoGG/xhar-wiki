@@ -6,13 +6,19 @@
 
 * [JavaScript](programming/javascript.md)
 * [CSS](programming/test.md)
+* [Snippets](programming/snippets.md)
 * [Lib](programming/lib.md)
+
+## Sharing
+
+* [Index](sharing/index.md)
 
 ## The Setup
 
 * [Software](the-setup/software.md)
 * [Hardware](the-setup/hardware.md)
 * [WorkFlow](the-setup/workflow.md)
+* [WorkFlow](the-setup/workflow-1.md)
 
 ## Books
 
