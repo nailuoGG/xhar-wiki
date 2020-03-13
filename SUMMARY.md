@@ -6,10 +6,13 @@
 
 * [JavaScript](programming/javascript.md)
 * [CSS](programming/test.md)
+* [Lib](programming/lib.md)
 
 ## The Setup
 
 * [Software](the-setup/software.md)
+* [Hardware](the-setup/hardware.md)
+* [WorkFlow](the-setup/workflow.md)
 
 ## Books
 
