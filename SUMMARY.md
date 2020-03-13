@@ -12,6 +12,8 @@
 ## Sharing
 
 * [Index](sharing/index.md)
+* [HowTo](sharing/howto/README.md)
+  * [使用双拼](sharing/howto/shi-yong-shuang-pin.md)
 
 ## The Setup
 
