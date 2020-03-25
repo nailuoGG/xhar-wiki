@@ -4,10 +4,21 @@
 
 ## Programming
 
-* [JavaScript](programming/javascript.md)
-* [CSS](programming/test.md)
+* [JavaScript](programming/javascript/README.md)
+  * [数据类型](programming/javascript/shu-ju-lei-xing.md)
+  * [逻辑控制](programming/javascript/luo-ji-kong-zhi.md)
+  * [包与模块](programming/javascript/bao-yu-mo-kuai.md)
+* [CSS](programming/test/README.md)
+  * [CSS的属性值](programming/test/css-de-shu-xing-zhi.md)
+  * [样式组织](programming/test/yang-shi-zu-zhi.md)
+  * [布局方法](programming/test/bu-ju-fang-fa.md)
 * [Snippets](programming/snippets.md)
-* [Lib](programming/lib.md)
+* [Lib](programming/lib/README.md)
+  * [react.js](programming/lib/react.js.md)
+  * [react-router-dom](programming/lib/react-router-dom.md)
+  * [axios](programming/lib/axios.md)
+  * [babel](programming/lib/babel.md)
+  * [webpack](programming/lib/webpack.md)
 
 ## Sharing
 
