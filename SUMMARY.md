@@ -24,6 +24,7 @@
 
 * [Index](sharing/index.md)
 * [HowTo](sharing/howto/README.md)
+  * [动物森友会](sharing/howto/dong-wu-sen-you-hui.md)
   * [使用双拼](sharing/howto/shi-yong-shuang-pin.md)
 
 ## The Setup
