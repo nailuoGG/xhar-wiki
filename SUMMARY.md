@@ -19,6 +19,7 @@
   * [axios](programming/lib/axios.md)
   * [babel](programming/lib/babel.md)
   * [webpack](programming/lib/webpack.md)
+* [Error](error.md)
 
 ## Sharing
 
