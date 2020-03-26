@@ -19,13 +19,14 @@
   * [axios](programming/lib/axios.md)
   * [babel](programming/lib/babel.md)
   * [webpack](programming/lib/webpack.md)
-* [Error](error/README.md)
-  * [2020](error/2020.md)
+* [Error](programming/error/README.md)
+  * [2020](programming/error/2020.md)
 
 ## Sharing
 
 * [Index](sharing/index.md)
 * [HowTo](sharing/howto/README.md)
+  * [问题排查手册](sharing/howto/wen-ti-pai-cha-shou-ce.md)
   * [动物森友会](sharing/howto/dong-wu-sen-you-hui.md)
   * [使用双拼](sharing/howto/shi-yong-shuang-pin.md)
 

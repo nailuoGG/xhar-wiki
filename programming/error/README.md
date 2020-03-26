@@ -4,4 +4,5 @@
 
 > 18 verbose stack TypeError: tb.match is not a function
 
-删除  node_modules 和 package-lock.json后重新运行 npm install 即可
+删除 node\_modules 和 package-lock.json后重新运行 npm install 即可
+
